@@ -1,8 +1,6 @@
 # life-app-vue
-[在线效果预览][1]
 > A Vue.js project
 
-## 点个star 收藏一下岂不是更好😆！
 ## Build Setup
 
 ``` bash
@@ -25,24 +23,5 @@ npm run build
  4. 也是为了熟悉下vue的流程，功能上不太复杂
  5. 样式用了sass，�移动适配用了rem方案
  6. 本地启动 上面两个步骤应该就能起来
- 7. 有问题交流可以issue留言交流
- 
-
-##在线预览的是我通过nginx配置的，代码还会更新：
-
-**过几天会总结几个点的心得，包括下面几点：**
-
-在博客里我会陆续记录下开发的一些东西：
-[博客链接，点击查看][2]
-
- - 项目的目录划分，vue的使用心得
- - 发布环境，前端代码单独部署，如何配合nginx
- - nginx的一些配置，和前后端分离异步接口反向代理
- - **前端性能的优化，前端缓存**(预览地址已经做前端代码永久缓存，你会发现第一次加载会慢一些，以后再访问会快不少，因为所以的前端代码都做了永久缓存策略)，打包策略(如何利用浏览器并行请求)等采用的方法
 
  
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
-  [1]: http://test.clibchina.com/#/index
-  [2]: http://shaqihe.top/
