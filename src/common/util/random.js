@@ -3,8 +3,6 @@
  * 一些生成随机文字／头像的方法(接口中没有笑话发表的作者和作者头像mock一个)
  *
  * @version  1.0
- * @author shaqihe(shaqihecome@163.com)
- *
  * @module src/common/util/random
  * ----------------------------------------------------------
  */
