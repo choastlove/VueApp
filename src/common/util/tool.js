@@ -3,8 +3,6 @@
  * 一些公共函数的封装，为了一些函数，就不引入新的库了
  *
  * @version  1.0
- * @author shaqihe(shaqihecome@163.com)
- *
  * @module src/common/util/tool
  * ----------------------------------------------------------
  */
