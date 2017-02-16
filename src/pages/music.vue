@@ -3,8 +3,6 @@
  * 音乐页面
  *
  * @version  1.0
- * @author shaqihe(shaqihecome@163.com)
- *
  * @module src/pages/music
  * ----------------------------------------------------------
  */
