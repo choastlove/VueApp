@@ -1,11 +1,7 @@
 /**
  * ----------------------------------------------------------
- * 项目的接口统一管理(直接在业务代码中写请求地址，问题定位／接口修改太不优雅了)
+ * 项目的接口统一管理
  *
- * @version  1.0
- * @author shaqihe(shaqihecome@163.com)
- *
- * @module src/cache/cache
  * ----------------------------------------------------------
  */
 
@@ -18,7 +14,7 @@ import {HAPPY_TYPE} from '../common/constant/constant';
 export  const HappyListCache = {
 
     /**
-     * 这个接口比较蛋疼，用的开源的接口，不同的接口规律也不一样
+     * 这个接口用的开源的接口，不同的接口规律也不一样
      * @param  {Object} Data
      * @return {Promise}
      */
