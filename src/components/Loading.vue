@@ -3,8 +3,6 @@
  * 整个项目的loading
  *
  * @version  1.0
- * @author shaqihe(shaqihecome@163.com)
- *
  * @module src/components/loading
  * ----------------------------------------------------------
  */
