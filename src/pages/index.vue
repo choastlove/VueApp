@@ -3,8 +3,6 @@
  * 欢迎页
  *
  * @version  1.0
- * @author shaqihe(shaqihecome@163.com)
- *
  * @module src/pages/index
  * ----------------------------------------------------------
  */
