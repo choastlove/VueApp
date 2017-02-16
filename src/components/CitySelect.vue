@@ -3,8 +3,6 @@
  * 城市选择控件简单封装
  *
  * @version  1.0
- * @author shaqihe(shaqihecome@163.com)
- *
  * @module src/components/CitySelect
  * ----------------------------------------------------------
  */
