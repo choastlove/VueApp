@@ -3,8 +3,6 @@
  * 自动对话机器人页面
  *
  * @version  1.0
- * @author shaqihe(shaqihecome@163.com)
- *
  * @module src/pages/robot
  * ----------------------------------------------------------
  */
